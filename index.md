@@ -1,4 +1,7 @@
 # Anagh Sheth's First CS193 Homework
+- I like that the class teaches us Github
+- I like the instructors in the class
+- I like how the course teaches us important CS skills that we can implement in our other CS classes
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
